@@ -54,6 +54,10 @@ Additionally it appears the [`ruduino`] is only for the Arduino Uno.
 
 [`avr-rust`] refers to the fork of the Rust compiler to add AVR support. Nowadays, AVR support is included in Rust nightly so these projects are deprecated e.g. [rust-legacy-fork](https://github.com/avr-rust/rust-legacy-fork).
 
+## Arduino UNO
+
+See [Arduino UNO](/arduino-uno.md).
+
 ## Projects
 
 - [CHIP-8 interpreter by Gergo Erdi](https://github.com/gergoerdi/rust-avr-chip8-avr)
